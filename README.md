@@ -80,7 +80,7 @@ articles-to-gdrive/
 ├── Storage/
 │   ├── __init__.py
 │   ├── main.py                 # точка входа
-│   ├── api_client.py      # поиск авторов и статей
+│   ├── api_client.py           # поиск авторов и статей
 │   ├── downloader.py           # скачивание PDF
 │   ├── resolver.py             # запасные источники
 │   ├── browser_downloader.py   # Playwright для защищённых сайтов
